@@ -1,7 +1,13 @@
-### Hi there 👋
+
 
 <!--
 **atharvagj-ai/atharvagj-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![ProfilePic](https://instagram.fnag1-1.fna.fbcdn.net/v/t51.2885-19/s320x320/87507769_643524703073513_4940184324319215616_n.jpg?_nc_ht=instagram.fnag1-1.fna.fbcdn.net&_nc_ohc=kYQHn_2djFEAX9hDFCy&oh=0c2b9418d0c0b47f41a09718a73f311d&oe=5F124619)
+
+### Atharva Jibhakate
+## Frontend Developer and AI Enthusiast
+### Hi there 👋
 
 Here are some ideas to get you started:
 
