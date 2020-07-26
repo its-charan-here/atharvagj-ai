@@ -1,23 +1,28 @@
+# Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/atharvagj-ai/atharvagj-ai.svg)](http://hits.dwyl.com/atharvagj-ai/atharvagj-ai)
 
-<!--
-**atharvagj-ai/atharvagj-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+### “ In a time of drastic change it is the learners who inherit the future. The learned usually find themselves equipped to live in a world that no longer exists. ” - Eric Hoffer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My life gist :
 
+- 🔭 I’m currently learning various fields of AI and Software Development!.
+- 📚 What do I beleive? Jack of all, Master of some.
+- 🌱 I’m currently learning to manage my time, and be productive.
+- 👯 I’m looking to collaborate on any idea that impresses me.
+- 💬 Ask me about Web Development, Deep Learning, AI, Finance.
+- 📫 How to reach me: [Atharva Jibhakate](https://www.linkedin.com/atharva-jibhakate)
+- ⚡ Fun fact: I love Coffee ☕
 
-![ProfilePic](https://instagram.fnag1-1.fna.fbcdn.net/v/t51.2885-19/s320x320/87507769_643524703073513_4940184324319215616_n.jpg?_nc_ht=instagram.fnag1-1.fna.fbcdn.net&_nc_ohc=kYQHn_2djFEAX9hDFCy&oh=0c2b9418d0c0b47f41a09718a73f311d&oe=5F124619) 
- 
-### Atharva Jibhakate
-## Frontend Developer and AI Enthusiast
-### Hi there 👋
+I strongly believe that constant learning is a part of our journey and thus am 
+always determined to learn various new technologies! At this point, I am
+very familiar with most of the AI and DL concepts. I have worked on 2 
+Deep learning projects and am trying to get into more of the intresting ones!
+I am also a frontend web development enthusiast. I am quite familiar with all 
+basic terminologies. I am learning the ReactJS framework right now! I do have 
+some experience in backend too, I have worked on a mini project in which I 
+used the Flask framework!
+
+I am still a learner, and am looking for new oppurtunities to wokr in! Please
+contact me if you feel like I could assist you! Thanks!
 
