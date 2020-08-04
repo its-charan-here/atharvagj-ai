@@ -23,6 +23,6 @@ basic terminologies. I am learning the ReactJS framework right now! I do have
 some experience in backend too, I have worked on a mini project in which I 
 used the Flask framework!
 
-I am still a learner, and am looking for new oppurtunities to wokr in! Please
+I am still a learner, and am looking for new oppurtunities to work in! Please
 contact me if you feel like I could assist you! Thanks!
 
