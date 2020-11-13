@@ -14,7 +14,7 @@ My life gist :
 - 🌱 I’m currently learning to manage my time, and be productive.
 - 👯 I’m looking to collaborate on any idea that impresses me.
 - 💬 Ask me about Web Development, Deep Learning, AI, Finance.
-- 📫 How to reach me: [Atharva Jibhakate](https://www.linkedin.com/atharva-jibhakate)
+- 📫 How to reach me: [Atharva Jibhakate](https://www.linkedin.com/in/atharva-jibhakate)
 - ⚡ Fun fact: I love Coffee ☕
 
 I strongly believe that constant learning is a part of our journey and thus am 
