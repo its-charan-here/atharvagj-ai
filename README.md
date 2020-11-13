@@ -1,6 +1,7 @@
 # Hi there 👋
 
 [![HitCount](http://hits.dwyl.com/atharvagj-ai/atharvagj-ai.svg)](http://hits.dwyl.com/atharvagj-ai/atharvagj-ai)
+[![Atharva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharvagj-ai)](https://github.com/anuraghazra/github-readme-stats)
 
 ### “ In a time of drastic change it is the learners who inherit the future. The learned usually find themselves equipped to live in a world that no longer exists. ” - Eric Hoffer
 
