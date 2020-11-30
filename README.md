@@ -5,7 +5,7 @@
 
 ### “ In a time of drastic change it is the learners who inherit the future. The learned usually find themselves equipped to live in a world that no longer exists. ” - Eric Hoffer
 
-[![HitCount](http://hits.dwyl.com/atharvagj-ai/atharvagj-ai.svg)](http://hits.dwyl.com/atharvagj-ai/atharvagj-ai)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rittmang&color=brightgreen" alt="rittmang" /> </p>
 
 My life gist :
 
